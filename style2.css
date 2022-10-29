@@ -47,10 +47,10 @@ header img:hover {
 }
 .box {
     height: 72vh;
-    background-color: #cac6ff;;
+    background-color: #ffffff;;
 }
 #box1 {
-    position: relative;
+    position: absolute;
 }
 #box2 {
     padding-top: 60px;
@@ -62,7 +62,7 @@ header img:hover {
 .image-wrapper img {
     position: relative;
     left: 150px;
-    padding-top: 100px;
+    padding-top: 120px;
 }
 .box-content {
     width: 46%;
@@ -78,15 +78,15 @@ header img:hover {
     margin-bottom: 32px;
 }
 .card-wrapper {
-    text-align: center;
+    text-align: left;
     margin-top: 130px;
 }
 .news-card {
     display: inline-block;
-    width: 360px;
+    width: 350px;
     height: 280px;
     margin: 20px 60px;
-    max-height:280px;
+    max-height:286px;
     border-radius: 16px;
     z-index: 2;
 }
@@ -133,7 +133,7 @@ footer img:hover {
 }
 footer ul {
     display: inline-block;
-    font-size: 20px;
+    font-size: 27px;
     position: relative;
 }
 footer li {
